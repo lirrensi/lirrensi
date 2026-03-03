@@ -1,37 +1,56 @@
 # Hi there, I'm [liri](https://github.com/lirrensi)
-![cat](https://raw.githubusercontent.com/lirrensi/lirrensi.github.io/refs/heads/main/img/le_cat.png)
 
-![Fullstack Sloperator | Machine Sorcerer](https://img.shields.io/badge/Fullstack%20Sloperator%20%7C%20Machine%20Sorcerer-🎩✨-blueviolet?style=for-the-badge&amp;logo=javascript&amp;logoColor=white)
+<img src="https://raw.githubusercontent.com/lirrensi/lirrensi.github.io/refs/heads/main/img/le_cat.png" alt="cat" width="150" />
+
+## 📂 Published Projects
+
+### 🔥 Active & Shiny
+
+- **📡 [looty](https://github.com/lirrensi/looty)** · `JavaScript` — Easy grab files on your PC from anywhere
+- **📹 [vibrissae](https://github.com/lirrensi/vibrissae)** · `TypeScript` — Zero bullshit video calls app - full P2P serverless or small self-hosted
+- **🔌 [silc](https://github.com/lirrensi/silc)** · `Python` — Bridge for multi-party terminal interaction (PTY + CLI/HTTP)
+- **🎤 [loophole](https://github.com/lirrensi/loophole)** · `Python` — Continuous ASR dictation app that runs however long you want
+- **🔍 [nexi-search](https://github.com/lirrensi/nexi-search)** · `Python` — Quick CLI search when your agents have problems searching
+- **💬 [ChatLayer](https://github.com/lirrensi/ChatLayer)** · `TypeScript` — Human-in-the-loop conversation middleware for customer-facing bots
+- **🔗 [Multifrost](https://github.com/lirrensi/Multifrost)** · `Python` — Small IPC library to call other environment functions
+
+### 🛠️ Tools & Utilities
+
+- **⚙️ [easycmd](https://github.com/lirrensi/easycmd)** · `TypeScript` — VSCode extension for easy exec cmd from comments
+- **📝 [promptpaste](https://github.com/lirrensi/promptpaste)** · `Python` — Smol CLI tool to manage prompts/instructions
+- **🛡️ [tamper-guard](https://github.com/lirrensi/tamper-guard)** · `PowerShell` — Canary script for Windows login security
+- **🐝 [swarmkeeper](https://github.com/lirrensi/swarmkeeper)** · `Python` — Mini tmux wrapper to check if your coding agent is slacking
+- **🗃️ [trashcone](https://github.com/lirrensi/trashcone)** · `TypeScript` — Zero fuss vector DB wrapper over SQLite
+- **🐍 [fucking-venv](https://github.com/lirrensi/fucking-venv)** · `Python` — How to stop hating Python's venv and start loving it
+- **🔀 [tmp-git-clone](https://github.com/lirrensi/tmp-git-clone)** · `TypeScript` — CLI for quickly cloning git repos to /tmp
+- **🎭 [pharaoh-vibecoding](https://github.com/lirrensi/pharaoh-vibecoding)** — Vibecoding system with Plan-Execute-Confirm flow
+- **🕵️ [mixed-script-detector](https://github.com/lirrensi/mixed-script-detector)** · `Go` — Detect website UI jitters when two scripts work together
+
+### 🌐 Web & UI
+
+- **📌 [stickygator](https://github.com/lirrensi/stickygator)** · `Vue` — Sticky note app for someone who likes panels
+- **🗣️ [Chatata](https://github.com/lirrensi/Chatata)** · `HTML` — Single file LLM-to-LLM chat / group chat
+- **🎮 [VibeAlongBench](https://github.com/lirrensi/VibeAlongBench)** · `Python` — Explore which LLMs are vibing with you
+- **🗂️ [wp-taxonomy-migrate](https://github.com/lirrensi/wp-taxonomy-migrate)** · `PHP` — WordPress taxonomy migration plugin
 
 
 ## 🛠️ Tech Stack / Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&amp;logo=typescript&amp;logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&amp;logo=powershell&amp;logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&amp;logo=vuedotjs&amp;logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&amp;logo=php&amp;logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
-*(AI/ML agents, CLI sorcery, fullstack vibes)*
-
-## 📂 Triple-regenerated devslop:
-
-- **🔒 [Multifrost -- comlink-py but cooler, solves a real pain for ML, data science, and plugin authors: - isolate dependencies...](https://github.com/lirrensi/Multifrost)** · `Python`
-- **🎤 [loophole -- Continuous ASR \| dictation app that runs however long...](https://github.com/lirrensi/loophole)** · `Python`
-- **🔌 [silc -- SILC is a bridge to allow one-many parties to interact with same terminal...](https://github.com/lirrensi/silc)** · `Python`
-- **🔍 [nexi-search -- A quick cli search when your stupid agents have problems searching](https://github.com/lirrensi/nexi-search)** · `Python`
-- **💬 [ChatLayer -- Human-in-the-loop conversation middleware for customer-facing bots...](https://github.com/lirrensi/ChatLayer)** · `TypeScript`
-- **🛡️ [tamper-guard -- simple canary script to improve windows security on login screen](https://github.com/lirrensi/tamper-guard)** · `PowerShell`
-- **🐝 [swarmkeeper -- Mini tmux session wrapper that looks inside and checks if your coding agent is slacking...](https://github.com/lirrensi/swarmkeeper)** · `Python`
-- **⚙️ [easycmd -- VSCode extension for easy exec cmd commands from special file or directly from comments](https://github.com/lirrensi/easycmd)** · `TypeScript`
-- **📝 [promptpaste -- Smol cli tool to easy manage your prompts/instructions/whatever](https://github.com/lirrensi/promptpaste)** · `Python`
-- **🎸 [VibeAlongBench -- VibeAlongBench explores which llms are vibing with you, or rather - on your side vs being boring](https://github.com/lirrensi/VibeAlongBench)** · `Python`
-- **🗣️ [Chatata -- single file llm-to-llm chat (or like slop genetator)](https://github.com/lirrensi/Chatata)** · `HTML`
-- **📌 [stickygator -- Just another &#39;sticky note&#39; app, for someone who likes panels and such](https://github.com/lirrensi/stickygator)** · `Vue`
-- **🗂️ [wp-taxonomy-migrate -- Taxonomy Migrate is an essential WordPress plugin for shop owners...](https://github.com/lirrensi/wp-taxonomy-migrate)** · `PHP`
-
+*(AI/ML agents, CLI sorcery, fullstack vibes, P2P explorer)*
 
 ## 🔗 Useful Gists
 
-- **⏳ [KeepHDDAwake.ps1](https://gist.github.com/lirrensi/1f10a02fe5adc89c9996d1155210d24e)** · `PowerShell` - Keeps your external enclosure HDDs spinning forever without sleep
-- **💾 [shrink_wsl.ps1](https://gist.github.com/lirrensi/4eda18d6fcc0ea6b491f7bdc829722d4)** · `PowerShell` - Reclaim WSL disk space by shrinking containers
-- **🤖 [meta-manager.md](https://gist.github.com/lirrensi/a7f476da11a46411a679476a6492fc1a)** · `Markdown` - Opencode agent for managing opencode itself
+- **⏳ [KeepHDDAwake.ps1](https://gist.github.com/lirrensi/1f10a02fe5adc89c9996d1155210d24e)** · `PowerShell` — Keeps your external enclosure HDDs spinning forever without sleep
+- **💾 [shrink_wsl.ps1](https://gist.github.com/lirrensi/4eda18d6fcc0ea6b491f7bdc829722d4)** · `PowerShell` — Reclaim WSL disk space by shrinking containers
+- **🤖 [meta-manager.md](https://gist.github.com/lirrensi/a7f476da11a46411a679476a6492fc1a)** · `Markdown` — Opencode agent for managing opencode itself
+
+---
+
+*Last updated: March 2026*

@@ -52,7 +52,10 @@
 
 ---
 
-## 🛠️ Tech Stack / Skills
+## 🛠️ Tech Stack
+
+🐱 Professional vibe crafter · I kickstart the loops and go sleep · 20 Parallel Projects Support Group · ADHD-certified
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
@@ -61,7 +64,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-*(AI agents, CLI sorcery, fullstack vibes, P2P explorer)*
+---
+
+*But I am available for a job and would love to continuously develop your open source projects.*
 
 ---
 

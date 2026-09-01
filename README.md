@@ -16,14 +16,20 @@
 - **📝 [promptpaste](https://github.com/lirrensi/promptpaste)** · `Python` — Smol CLI tool to manage prompts/instructions
 - **⚙️ [easycmd](https://github.com/lirrensi/easycmd)** · `TypeScript` — VSCode extension for easy exec cmd from comments
 - **🐍 [fucking-venv](https://github.com/lirrensi/fucking-venv)** · `Python` — How to stop hating Python's venv and start loving it
+- **🌀 [SanityLoop](https://github.com/lirrensi/SanityLoop)** · `TypeScript` — Build your own harness: template-based agent loop where you design each and every part
+- **📚 [skills-hoard](https://github.com/lirrensi/skills-hoard)** · `HTML` — Crazy cat skills hoard collected and created over the years
+- **👑 [swarmkeeper](https://github.com/lirrensi/swarmkeeper)** · `Python` — Mini tmux session wrapper that checks if your coding agent is slacking
+- **📌 [git-mark](https://github.com/lirrensi/git-mark)** · `TypeScript` — Give your agent unlimited resources: keeps .git repos in a list with easy CLI access
+- **🧠 [memka](https://github.com/lirrensi/memka)** · `Python` — Real quick search over your .md memory files — like in *claw but local and in any folder
 
 ## Opencode
 
-- **📋 [opencode-workflows](https://github.com/lirrensi/opencode-workflows)** · `TypeScript` — Strict workflow guardrails: write required steps and agent cannot deviate
+- **📋 [opencode-quests](https://github.com/lirrensi/opencode-quests)** · `TypeScript` — Strict workflow guardrails: write required steps and agent cannot deviate
 - **🎯 [opencode-powergoal](https://github.com/lirrensi/opencode-powergoal)** · `TypeScript` — Simpler, lighter goal plugin for opencode
 - **⏱️ [opencode-chronoloop](https://github.com/lirrensi/opencode-chronoloop)** · `TypeScript` — Run your agent autonomously for a minimum set amount of minutes
 - **🔧 [opencode-kilocli-session-tool](https://github.com/lirrensi/opencode-kilocli-session-tool)** · `Python` — Get your opencode + kilocode session list right from the console
 - **🛡️ [opencode-kilocli-isolated-profile](https://github.com/lirrensi/opencode-kilocli-isolated-profile)** · `Shell` — Template + scripts to run opencode from a completely isolated profile
+- **🔁 [opencode-interval](https://github.com/lirrensi/opencode-interval)** · `TypeScript` — Stupid loop/interval plugin — repeat tasks right in the TUI while you keep control
 
 ## 🔧 Frameworks & Infrastructure
 
@@ -42,6 +48,11 @@
 - **🔄 [wp-woo-productsyncer](https://github.com/lirrensi/wp-woo-productsyncer)** · `PHP` — Synchronize products across two WooCommerce stores
 - **🐝 [cancan](https://github.com/lirrensi/cancan)** · `PowerShell` — Collaborative Kanban app for you and your agent to work together
 - **📋 [empty-space](https://github.com/lirrensi/empty-space)** · `TypeScript` — Mini task tracker — overview of top todos/plans per project
+- **📐 [rectangular](https://github.com/lirrensi/rectangular)** · `Python` — Quick & stupid linear alternative for solo devs
+- **🛣️ [winpath](https://github.com/lirrensi/winpath)** · `Python` — Smol stupid tool for path management so you stop hating it
+- **🚨 [incide](https://github.com/lirrensi/incide)** · `Go` — Quick and easy incident logging
+- **⚡ [irun](https://github.com/lirrensi/irun)** · `Go` — Quick local SSH on any Windows device
+- **👻 [mixed-script-detector](https://github.com/lirrensi/mixed-script-detector)** · `Go` — Detect website UI jitters when two scripts work together
 
 ## Fun
 
@@ -70,4 +81,4 @@
 
 ---
 
-*Last updated: June 2026*
+*Last updated: September 2026*
